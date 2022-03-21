@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-Korea"
-title                    : "Beom's awesome site"
+title                    : "재범의 블로그"
 title_separator          : "Computer Algorism class"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jaebeom Kim"
+name                     : "김재범"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jaebeom Kim"
+  name             : "김재범"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "정보통신공학과 21학번"
   location         : "Suwon or Incheon"
   email            : gsxxx007@naver.com
   links:
