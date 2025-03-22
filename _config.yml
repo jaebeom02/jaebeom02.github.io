@@ -20,6 +20,7 @@ title                    : "재범의 블로그"
 title_separator          : "Computer Algorism class"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김재범"
+student_id               : "202101590"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
